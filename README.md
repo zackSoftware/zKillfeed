@@ -2,7 +2,7 @@
 
     A simple script that display a killfeed on certain areas on the map
 
-# Compatibiltiy
+# Compatibilty
 
 Standalone
 
