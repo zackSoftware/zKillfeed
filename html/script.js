@@ -1,0 +1,1 @@
+window.addEventListener("message",e=>{feed(e)});let feedId=0;function feed(e){let d=feedId+=60;$(".feed").append(`<div class="feed-item" id="feed-${d}">${e.data.context}</div>`),$("body").find(`#feed-${d}`).fadeIn(),setTimeout(()=>{$("body").find(`#feed-${d}`).fadeOut()},6e3)}
