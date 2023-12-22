@@ -1,6 +1,7 @@
 fx_version 'cerulean'
 games {'gta5'}
 
+author 'fiverr/zak_19 | zackBOSS#7385'
 
 shared_scripts {
     "config.lua"
