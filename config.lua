@@ -1,6 +1,6 @@
 Config = {}
 
-Config.ZonesBlips = true
+Config.ZonesBlips = true -- If you wanna show a redzone on the map for the fighting areas set it to true
     
 Config.ZonesLocations = {
     {x = 1222.9275, y = 3184.1230, z = 40.8007, radius = 100.0  },
